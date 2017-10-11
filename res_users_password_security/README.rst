@@ -11,7 +11,7 @@ and enforces them on the user.
 
 It contains features such as
 
-* Password expiration days (removed - bug fix needed)
+* Password expiration days (bug fix needed)
 * Password length requirement
 * Password minimum number of lowercase letters
 * Password minimum number of uppercase letters
@@ -37,7 +37,7 @@ These are defined at the company level:
 +---------------------+---------+-------------------------------------------------------------------+
 | Name                | Default |  Description                                                      |
 +=====================+=========+===================================================================+
-| password_expiration | 60      | Days until passwords expire (removed - bug fix needed             |
+| password_expiration | 60      | Days until passwords expire (bug fix needed)                      |
 +---------------------+---------+-------------------------------------------------------------------+
 | password_length     | 12      | Minimum number of characters in password                          |
 +---------------------+---------+-------------------------------------------------------------------+
